@@ -5,6 +5,8 @@
 
 - 🤖 I’m currently learning **Machine Learning**
 
+- 📚 I aspire to complete my **Masters and PhD** 
+
 - 👨‍💻 All of my public projects are available at [https://github.com/ahm-adsaad](https://github.com/ahm-adsaad)
 
 - 📧 You can reach me on **ahmadd.saad02@gmail.com**
