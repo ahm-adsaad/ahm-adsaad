@@ -3,7 +3,7 @@
 
 - 🖥️ I’m currently working on **improving my skills through various projects**
 
-- 🤖 I’m currently learning **Machine Learning**
+- 🤖 I’m currently learning **exploring different domains**
 
 - 📚 I aspire to complete my **Masters and PhD** 
 
