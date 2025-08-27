@@ -1,9 +1,9 @@
 <h1 > Hey, I'm Ahmad Saad</h1>
 <h3>A Computer Engineering Student On His Learning Journey</h3>
 
-- 🖥️ I’m currently working on **improving my skills through various projects**
+- 🖥️ I’m currently working on **a Reddit GPT**
 
-- 🤖 I’m currently learning **exploring different domains**
+- 🤖 I’m currently exploring ** different domains**
 
 - 📚 I aspire to complete my **Masters and PhD** 
 
