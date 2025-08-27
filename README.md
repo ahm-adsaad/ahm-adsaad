@@ -3,7 +3,7 @@
 
 - 🖥️ I’m currently working on **a Reddit GPT**
 
-- 🤖 I’m currently exploring ** different domains**
+- 🤖 I’m currently exploring **different domains**
 
 - 📚 I aspire to complete my **Masters and PhD** 
 
