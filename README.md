@@ -36,16 +36,3 @@
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
 </p>
-
-<br/>
-
-<h3 align="left">Stats</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ahm-adsaad&show_icons=true&theme=transparent" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahm-adsaad&theme=transparent" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahm-adsaad&theme=flat&row=1&column=6"/>
-</p>
-```
