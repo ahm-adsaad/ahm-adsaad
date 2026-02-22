@@ -8,8 +8,8 @@
 
 <br/>
 
-- 🖥️ Currently building **AI-powered and automation projects**
-- 🤖 Exploring **AI, systems, and software engineering**
+- 🖥️ Currently building **Sustainable IoT and automation projects**
+- 🤖 Exploring **EH IoT, sustainable systems, and wireless communications**
 - 📚 Long-term goal: **Masters and PhD**
 - 👨‍💻 Projects: <a href="https://github.com/ahm-adsaad">github.com/ahm-adsaad</a>
 - 📧 Contact: **ahmadd.saad02@gmail.com**
